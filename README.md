@@ -36,11 +36,11 @@ The basic structure of the project is given in the following way:
 ├── demo/
 │   └── index.html
 ├── dist/
-│   ├── jquery.boilerplate.js
+│   ├── myValidatePlugin.js
 │   └── jquery.boilerplate.min.js
 ├── src/
 │   ├── jquery.boilerplate.coffee
-│   └── jquery.boilerplate.js
+│   └── myValidatePlugin.js
 ├── .editorconfig
 ├── .gitignore
 ├── .jshintrc
